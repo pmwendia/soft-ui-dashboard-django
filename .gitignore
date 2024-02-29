@@ -12,4 +12,6 @@ env
 #src
 *.sqlite*
 
-.env
+# .env
+db-data/
+db-data/*
